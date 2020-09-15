@@ -10,4 +10,5 @@ end
 
 def square_array(array)
   new_array = []
-  while 
+  number = array.length 
+  number.times do 
